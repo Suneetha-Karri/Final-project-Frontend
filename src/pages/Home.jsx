@@ -9,8 +9,7 @@ function Home() {
           alt="HomeEase banner"
           className="hero-image"
         />
-       
-        <h1>Book Professional Home Services</h1>
+       <h1>Book Professional Home Services</h1>
         <p>Your Trusted Home Services Partner</p>
       </section>
 
